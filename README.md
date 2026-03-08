@@ -16,19 +16,19 @@ SQL Based Hospital Management System
 - ER Diagram
 
 ## Tables
-Patients
-Doctors
-Nurses
-Employees
-Receptionist
-Records
-Rooms
-Bills
-Test Report
+-Patients
+-Doctors
+-Nurses
+-Employees
+-Receptionist
+-Records
+-Rooms
+-Bills
+-Test Report
 
 ## Relationship tables
-Consults - Doctors & Patients
-Assigned - Patients & Rooms
-Pays - Patients & Bills
-Governs - Nurses & Rooms
-Manitains - Receptionist & Records
+-Consults - Doctors & Patients
+-Assigned - Patients & Rooms
+-Pays - Patients & Bills
+-Governs - Nurses & Rooms
+-Manitains - Receptionist & Records
